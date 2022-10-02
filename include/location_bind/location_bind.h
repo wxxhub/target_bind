@@ -1,0 +1,8 @@
+//
+// Created by 王鑫鑫 on 2022/10/2.
+//
+
+#ifndef TARGET_BIND_LOCATION_BIND_H
+#define TARGET_BIND_LOCATION_BIND_H
+
+#endif //TARGET_BIND_LOCATION_BIND_H
